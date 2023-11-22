@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.deps.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.runtimeconfig.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.runtimeconfig.dev.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.AssemblyInfo.cs
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\refint\coreModel.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.genruntimeconfig.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\ref\coreModel.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.deps.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.runtimeconfig.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\bin\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.AssemblyInfo.cs
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\refint\coreModel.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\coreModel.genruntimeconfig.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreModel\obj\Debug\net5.0\ref\coreModel.dll

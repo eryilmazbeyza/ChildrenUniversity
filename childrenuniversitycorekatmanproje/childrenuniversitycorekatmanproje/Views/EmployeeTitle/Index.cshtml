@@ -1,0 +1,80 @@
+﻿@model IEnumerable<coreModel.ListView.EmployeeTitle>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <table class="table table-danger text-md-center">
+                <thead>
+
+
+                    <tr>
+
+
+                        <th>
+                            Name Surname
+                        </th>
+                        <th>
+                            Gender
+                        </th>
+                        <th>
+                            Date of Start
+                        </th>
+                        <th>
+                            Shift
+                        </th>
+
+                        <th>
+                            Title ID
+                        </th>
+                        <th>
+                            Title Name
+                        </th>
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>
+                                @item.NameSurname
+                            </td>
+
+                            <td>
+                                @item.Gender
+                            </td>
+                            <td>
+                                @item.DateofStart
+                            </td>
+                            <td>
+                                @item.Shift
+                            </td>
+
+                            <td>
+                                @item.TitleID
+                            </td>
+                            <td>
+                                @item.TitleName
+                            </td>
+
+                        </tr>
+
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+
+
+
+
+</div>

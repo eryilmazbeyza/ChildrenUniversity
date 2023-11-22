@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.deps.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.runtimeconfig.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.runtimeconfig.dev.json
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.pdb
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.AssemblyInfo.cs
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.CopyComplete
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\refint\coreData.dll
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.pdb
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.genruntimeconfig.cache
+C:\Users\HP\Desktop\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\ref\coreData.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.deps.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.runtimeconfig.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreData.pdb
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreModel.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\bin\Debug\net5.0\coreModel.pdb
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.AssemblyInfo.cs
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.csproj.CopyComplete
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\refint\coreData.dll
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.pdb
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\coreData.genruntimeconfig.cache
+C:\Users\HP\Desktop\Benim Projelerim\childrenuniversitycorekatmanproje\coreData\obj\Debug\net5.0\ref\coreData.dll

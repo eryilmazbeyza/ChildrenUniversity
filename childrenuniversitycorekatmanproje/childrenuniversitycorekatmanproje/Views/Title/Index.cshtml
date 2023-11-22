@@ -1,0 +1,38 @@
+﻿@model IEnumerable<coreModel.Title>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TitleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TitleID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TitleName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TitleID">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.TitleID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
